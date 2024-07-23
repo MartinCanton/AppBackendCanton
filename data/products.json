@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1721354452438",
+    "title": "Producto 4",
+    "description": "Descripción del producto 1",
+    "code": "P001",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Categoría 4",
+    "thumbnails": [
+      "ruta/a/imagen1.jpg"
+    ]
+  },
+  {
+    "id": "1721774057090",
+    "title": "Producto 5",
+    "description": "Descripción del producto 5",
+    "code": "P001",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Categoría 5",
+    "thumbnails": [
+      "ruta/a/imagen5.jpg"
+    ]
+  },
+  {
+    "id": "1721354472989",
+    "title": "Producto 5 Actualizado",
+    "description": "Descripción actualizada del producto 5",
+    "code": "P001",
+    "price": 150,
+    "status": true,
+    "stock": 5,
+    "category": "Categoría  5 Actualizada",
+    "thumbnails": [
+      "ruta/a/imagen1.jpg",
+      "ruta/a/imagen3.jpg"
+    ]
+  }
+]
